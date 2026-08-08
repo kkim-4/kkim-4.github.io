@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-explosive-plays-nfl-running-back
 excerpt: 'A stacked-ensemble model (XGBoost, MLP, and CNN base learners under an XGBoost meta-learner) over custom spatiotemporal features to predict explosive NFL run plays, reaching 0.71 AUC. Awarded Best Poster.'
-date: 2025-01-01
+date: 2025-12-07
 venue: 'Emory Center for AI Learning Research Showcase'
 paperurl: 'https://drive.google.com/file/d/1ZsZ-4FqmgUCKGSGVa4Tl-hKAtGJQa7p1/view?usp=sharing'
 citation: 'Kim, K. (2025). &quot;Boom! Using Explosive Plays to Predict the Next Breakout Running Back.&quot; Emory Center for AI Learning Research Showcase. <b>Best Poster Award & Emory AI X.perience Fellowship.</b>'
