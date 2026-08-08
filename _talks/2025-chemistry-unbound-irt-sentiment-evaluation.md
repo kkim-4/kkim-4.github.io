@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-chemistry-unbound-irt-sentiment-evaluation
 excerpt: 'An NLP pipeline (DistilBERT + Rasch IRT) over 2,000 student assessment and free-text feedback records evaluating the Chemistry Unbound curriculum, replacing a manual review process that took 50+ hours per cycle.'
-date: 2025-01-01
+date: 2025-05-04
 venue: 'Emory Center for AI Learning Research Showcase'
 paperurl: 'https://drive.google.com/file/d/1NW70DAgVd6Gc2rGh8FQfMCmYzYKHX0dg/view?usp=sharing'
 citation: 'Kim, K. (2025). &quot;A Multi-Modal Evaluation of Chemistry Unbound using IRT and Sentiment Analysis.&quot; Emory Center for AI Learning Research Showcase. <b>Best Poster Award & Emory AI X.perience Fellowship.</b>'
