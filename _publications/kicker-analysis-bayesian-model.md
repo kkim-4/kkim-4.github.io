@@ -1,7 +1,7 @@
 ---
 title: "Kicker Analysis: A Dual-Process Bayesian State-Space Model"
 collection: portfolio
-category: projects
+category: research projects
 permalink: /portfolio/2026-kicker-analysis-bayesian-model
 excerpt: 'A Bayesian state-space model computing a normalized Field Goal Over Expected (FGOE) metric to separate situational difficulty from true latent kicker skill.'
 date: 2026-08-01
