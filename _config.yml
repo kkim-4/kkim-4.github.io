@@ -13,9 +13,9 @@ title                    : "Kevin Kim"
 title_separator          : "-"
 name                     : &name "Kevin Kim"
 description              : &description "Kevin Kim's academic portfolio — AI/ML research, multi-agent systems, and software engineering"
-url                      : "https://kdkim.github.io" # research/academic site — kdkim.dev is kept separate for your dev page
+url                      : "https://kkim-4.github.io" # research/academic site — kdkim.dev is kept separate for your dev page
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kkim-4/kdkim.github.io" # this repo — should match your GitHub Pages repo name exactly
+repository               : "kkim-4/kkim-4.github.io" # this repo — should match your GitHub Pages repo name exactly
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
